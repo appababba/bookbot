@@ -1,2 +1,2 @@
-# booklet
-python to count words
+# bookbot
+Bookbot is my first project!
